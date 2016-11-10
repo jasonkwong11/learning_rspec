@@ -2,6 +2,10 @@
 
 ##CONFIGURATION
   #Run: gem install rspec, rspec --init, rails generate rspec:install
+class Zombie
+
+end
+
 
 require 'spec_helper'
 
