@@ -26,10 +26,10 @@ describe Zombie do
   end
 
   #how to make pending: 
-  it "is a pending test"
+ # it "is a pending test"
 
-  xit "is also pending" do
-  end
+ # xit "is also pending" do
+ # end
 
 end
 
