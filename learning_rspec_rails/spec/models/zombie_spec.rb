@@ -1,7 +1,7 @@
 #CONFIGURATION AND MATCHERS
 
 ##CONFIGURATION
-  #Run: gem install rspec, rspec --init, rails generate rspec:install
+  #Run: gem install rspec, rspec --init, rails generate rspec:install, add config block to rails_helper.rb
 class Zombie
 
 end

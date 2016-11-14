@@ -201,3 +201,8 @@ end
 # Dave chelimsky's blog
 # Ryan Bates' screencasts
 # the factory girl github has a great getting started guide
+# peepcode rspec screencasts
+
+
+
+
